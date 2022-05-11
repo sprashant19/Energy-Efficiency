@@ -25,7 +25,7 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 
 2)Visualizing the data using various modules such as Matplotlib.
 
-3)Built models such as Linear regression, Logistic Regression,K-Nearest Neighbor,Naive Bayes,Decision Tree,Random Forest,Gradient Boosting and XG Boost.Also evaluated each model using R^2 score, to choose among them the best model.
+3)Built models such as Linear regression, Logistic Regression,K-Nearest Neighbor,Decision Tree,Random Forest,Gradient Boosting and XG Boost.Also evaluated each model using R^2 score, to choose among them the best model.
 
 Finally,done the feature importance of the best model.
 
